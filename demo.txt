@@ -1,3 +1,4 @@
 Dummy file created to understand git command 
 update demo.txt file 
 push new changes again in Git Hub Repo
+Added Branch and merge it to master branch
